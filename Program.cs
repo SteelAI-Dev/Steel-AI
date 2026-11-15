@@ -10,7 +10,10 @@ namespace Steel_AI
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("===========================================");
+			// Step one: "dotnet run -- digits" trains on handwritten digits instead of XOR
+			if (args.Length > 0 && args[0] == "digits") { DigitsProgram.Run(args); return; }
+
+			Console.WriteLine("===========================================");
             Console.WriteLine(" STEEL AI: Model Persistence Test (XOR) ");
             Console.WriteLine("===========================================\n");
             string modelPath = "xor_model.json";

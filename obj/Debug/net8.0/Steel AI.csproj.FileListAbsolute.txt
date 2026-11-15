@@ -1,0 +1,16 @@
+C:\Users\corne_5f7zsot\source\repos\GodSteel25\Steel-AI\bin\Debug\net8.0\Steel AI.exe
+C:\Users\corne_5f7zsot\source\repos\GodSteel25\Steel-AI\bin\Debug\net8.0\Steel AI.deps.json
+C:\Users\corne_5f7zsot\source\repos\GodSteel25\Steel-AI\bin\Debug\net8.0\Steel AI.runtimeconfig.json
+C:\Users\corne_5f7zsot\source\repos\GodSteel25\Steel-AI\bin\Debug\net8.0\Steel AI.dll
+C:\Users\corne_5f7zsot\source\repos\GodSteel25\Steel-AI\bin\Debug\net8.0\Steel AI.pdb
+C:\Users\corne_5f7zsot\source\repos\GodSteel25\Steel-AI\obj\Debug\net8.0\Steel AI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\corne_5f7zsot\source\repos\GodSteel25\Steel-AI\obj\Debug\net8.0\Steel AI.AssemblyInfoInputs.cache
+C:\Users\corne_5f7zsot\source\repos\GodSteel25\Steel-AI\obj\Debug\net8.0\Steel AI.AssemblyInfo.cs
+C:\Users\corne_5f7zsot\source\repos\GodSteel25\Steel-AI\obj\Debug\net8.0\Steel AI.csproj.CoreCompileInputs.cache
+C:\Users\corne_5f7zsot\source\repos\GodSteel25\Steel-AI\obj\Debug\net8.0\Steel AI.sourcelink.json
+C:\Users\corne_5f7zsot\source\repos\GodSteel25\Steel-AI\obj\Debug\net8.0\Steel AI.dll
+C:\Users\corne_5f7zsot\source\repos\GodSteel25\Steel-AI\obj\Debug\net8.0\refint\Steel AI.dll
+C:\Users\corne_5f7zsot\source\repos\GodSteel25\Steel-AI\obj\Debug\net8.0\Steel AI.pdb
+C:\Users\corne_5f7zsot\source\repos\GodSteel25\Steel-AI\obj\Debug\net8.0\Steel AI.genruntimeconfig.cache
+C:\Users\corne_5f7zsot\source\repos\GodSteel25\Steel-AI\obj\Debug\net8.0\ref\Steel AI.dll
+C:\Users\corne_5f7zsot\source\repos\GodSteel25\Steel-AI\obj\Debug\net8.0\Steel AI.csproj.Up2Date

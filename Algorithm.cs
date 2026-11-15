@@ -1,4 +1,5 @@
-﻿using Steel_AI.NetworkDefinition;
+using System.Linq;
+using Steel_AI.NetworkDefinition;
 namespace Steel_AI.NetworkAlgorithm
 {
     internal class Algorithm
@@ -8,6 +9,17 @@ namespace Steel_AI.NetworkAlgorithm
         /// </summary> 
         public double[] ForwardPropagation(Layer[] layers, double[] inputs)
         {
+            // Validate structural integrity and input length
+            if (layers== null || layers.Length < 2)
+            {
+                throw new ArgumentException("Network must contain at least an input layer and an output layer.", nameof(layers));
+            }
+            
+            if (inputs == null || inputs.Length != layers[0].Neurons.Length)
+            {
+                throw new ArgumentException($"Input length ({inputs?.Length ?? 0}) does not match input layer neuron count ({layers[0].Neurons.Length}).", nameof(inputs));
+            }
+            
             for (int i = 0; i < inputs.Length; i++)
             {
                 layers[0].Neurons[i].Output = inputs[i];

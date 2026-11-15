@@ -1,0 +1,5 @@
+C:\Users\corne_5f7zsot\source\repos\GodSteel25\Steel-AI\bin\Release\net8.0\publish\Steel AI.exe
+C:\Users\corne_5f7zsot\source\repos\GodSteel25\Steel-AI\bin\Release\net8.0\publish\Steel AI.dll
+C:\Users\corne_5f7zsot\source\repos\GodSteel25\Steel-AI\bin\Release\net8.0\publish\Steel AI.deps.json
+C:\Users\corne_5f7zsot\source\repos\GodSteel25\Steel-AI\bin\Release\net8.0\publish\Steel AI.runtimeconfig.json
+C:\Users\corne_5f7zsot\source\repos\GodSteel25\Steel-AI\bin\Release\net8.0\publish\Steel AI.pdb
