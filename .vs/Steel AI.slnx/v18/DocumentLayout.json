@@ -1,7 +1,36 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\corne_5f7zsot\\source\\repos\\GodSteel25\\Steel-AI\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4FF4CD9-5D0E-162A-4E43-A8FA1E2DC5B7}|Steel AI.csproj|c:\\users\\corne_5f7zsot\\source\\repos\\godsteel25\\steel-ai\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4FF4CD9-5D0E-162A-4E43-A8FA1E2DC5B7}|Steel AI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4FF4CD9-5D0E-162A-4E43-A8FA1E2DC5B7}|Steel AI.csproj|c:\\users\\corne_5f7zsot\\source\\repos\\godsteel25\\steel-ai\\neuron.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4FF4CD9-5D0E-162A-4E43-A8FA1E2DC5B7}|Steel AI.csproj|solutionrelative:neuron.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4FF4CD9-5D0E-162A-4E43-A8FA1E2DC5B7}|Steel AI.csproj|c:\\users\\corne_5f7zsot\\source\\repos\\godsteel25\\steel-ai\\neuralnetwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4FF4CD9-5D0E-162A-4E43-A8FA1E2DC5B7}|Steel AI.csproj|solutionrelative:neuralnetwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4FF4CD9-5D0E-162A-4E43-A8FA1E2DC5B7}|Steel AI.csproj|c:\\users\\corne_5f7zsot\\source\\repos\\godsteel25\\steel-ai\\networkstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4FF4CD9-5D0E-162A-4E43-A8FA1E2DC5B7}|Steel AI.csproj|solutionrelative:networkstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4FF4CD9-5D0E-162A-4E43-A8FA1E2DC5B7}|Steel AI.csproj|c:\\users\\corne_5f7zsot\\source\\repos\\godsteel25\\steel-ai\\layer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4FF4CD9-5D0E-162A-4E43-A8FA1E2DC5B7}|Steel AI.csproj|solutionrelative:layer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4FF4CD9-5D0E-162A-4E43-A8FA1E2DC5B7}|Steel AI.csproj|c:\\users\\corne_5f7zsot\\source\\repos\\godsteel25\\steel-ai\\algorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4FF4CD9-5D0E-162A-4E43-A8FA1E2DC5B7}|Steel AI.csproj|solutionrelative:algorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4FF4CD9-5D0E-162A-4E43-A8FA1E2DC5B7}|Steel AI.csproj|c:\\users\\corne_5f7zsot\\source\\repos\\godsteel25\\steel-ai\\data\\digitsprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4FF4CD9-5D0E-162A-4E43-A8FA1E2DC5B7}|Steel AI.csproj|solutionrelative:data\\digitsprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +38,106 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\corne_5f7zsot\\source\\repos\\GodSteel25\\Steel-AI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\corne_5f7zsot\\source\\repos\\GodSteel25\\Steel-AI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-20T00:19:41.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Neuron.cs",
+              "DocumentMoniker": "C:\\Users\\corne_5f7zsot\\source\\repos\\GodSteel25\\Steel-AI\\Neuron.cs",
+              "RelativeDocumentMoniker": "Neuron.cs",
+              "ToolTip": "C:\\Users\\corne_5f7zsot\\source\\repos\\GodSteel25\\Steel-AI\\Neuron.cs",
+              "RelativeToolTip": "Neuron.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-20T00:19:39.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NeuralNetwork.cs",
+              "DocumentMoniker": "C:\\Users\\corne_5f7zsot\\source\\repos\\GodSteel25\\Steel-AI\\NeuralNetwork.cs",
+              "RelativeDocumentMoniker": "NeuralNetwork.cs",
+              "ToolTip": "C:\\Users\\corne_5f7zsot\\source\\repos\\GodSteel25\\Steel-AI\\NeuralNetwork.cs",
+              "RelativeToolTip": "NeuralNetwork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-20T00:19:38.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NetworkState.cs",
+              "DocumentMoniker": "C:\\Users\\corne_5f7zsot\\source\\repos\\GodSteel25\\Steel-AI\\NetworkState.cs",
+              "RelativeDocumentMoniker": "NetworkState.cs",
+              "ToolTip": "C:\\Users\\corne_5f7zsot\\source\\repos\\GodSteel25\\Steel-AI\\NetworkState.cs",
+              "RelativeToolTip": "NetworkState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-20T00:19:37.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Layer.cs",
+              "DocumentMoniker": "C:\\Users\\corne_5f7zsot\\source\\repos\\GodSteel25\\Steel-AI\\Layer.cs",
+              "RelativeDocumentMoniker": "Layer.cs",
+              "ToolTip": "C:\\Users\\corne_5f7zsot\\source\\repos\\GodSteel25\\Steel-AI\\Layer.cs",
+              "RelativeToolTip": "Layer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-20T00:19:34.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Algorithm.cs",
+              "DocumentMoniker": "C:\\Users\\corne_5f7zsot\\source\\repos\\GodSteel25\\Steel-AI\\Algorithm.cs",
+              "RelativeDocumentMoniker": "Algorithm.cs",
+              "ToolTip": "C:\\Users\\corne_5f7zsot\\source\\repos\\GodSteel25\\Steel-AI\\Algorithm.cs",
+              "RelativeToolTip": "Algorithm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-20T00:19:26.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DigitsProgram.cs",
+              "DocumentMoniker": "C:\\Users\\corne_5f7zsot\\source\\repos\\GodSteel25\\Steel-AI\\Data\\DigitsProgram.cs",
+              "RelativeDocumentMoniker": "Data\\DigitsProgram.cs",
+              "ToolTip": "C:\\Users\\corne_5f7zsot\\source\\repos\\GodSteel25\\Steel-AI\\Data\\DigitsProgram.cs",
+              "RelativeToolTip": "Data\\DigitsProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-20T00:19:20.822Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             }
           ]
         }
