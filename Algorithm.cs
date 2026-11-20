@@ -1,13 +1,12 @@
 using System.Linq;
-using Steel_AI.NetworkDefinition;
-namespace Steel_AI.NetworkAlgorithm
+namespace Steel_AI
 {
     internal class Algorithm
     {
         /// <summary> 
         /// Runs forward propagation through the network layers to generate output predictions. 
         /// </summary> 
-        public double[] ForwardPropagation(Layer[] layers, double[] inputs)
+        public static double[] ForwardPropagation(Layer[] layers, double[] inputs)
         {
             // Validate structural integrity and input length
             if (layers== null || layers.Length < 2)
@@ -44,17 +43,17 @@ namespace Steel_AI.NetworkAlgorithm
                 }
             }
 
-            Layer outputLayer = layers[layers.Length - 1];
-            return outputLayer.Neurons.Select(n => n.Output).ToArray();
+            Layer outputLayer = layers[^1];
+            return [.. outputLayer.Neurons.Select(n => n.Output)];
         }
 
         /// <summary> 
         /// Calculates error gradients for neurons in the output layer and hidden layers. 
         /// </summary> 
-        public void CalculateGradients(Layer[] layers, double[] targets)
+        public static void CalculateGradients(Layer[] layers, double[] targets)
         {
             // 1. Output Layer Gradients
-            Layer outputLayer = layers[layers.Length - 1];
+            Layer outputLayer = layers[^1];
             for (int i = 0; i < outputLayer.Neurons.Length; i++)
             {
                 Neuron neuron = outputLayer.Neurons[i];
@@ -85,7 +84,7 @@ namespace Steel_AI.NetworkAlgorithm
         /// <summary> 
         /// Updates connection weights and biases across all hidden and output layers.
         /// </summary> 
-        public void UpdateParameters(Layer[] layers, double learnRate)
+        public static void UpdateParameters(Layer[] layers, double learnRate)
         {
             for (int layerIndex = 1; layerIndex < layers.Length; layerIndex++)
             {
@@ -108,7 +107,7 @@ namespace Steel_AI.NetworkAlgorithm
         /// <summary> 
         /// Sigmoid activation function to map inputs into the range [0.0, 1.0]. 
         /// /// </summary>
-        private double Activate(double weightedInput)
+        private static double Activate(double weightedInput)
         {
             return 1.0 / (1.0 + Math.Exp(-weightedInput));
         }

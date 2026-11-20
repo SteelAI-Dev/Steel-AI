@@ -1,0 +1,2 @@
+cd C:\Users\corne_5f7zsot\source\repos\Steel-AI\bin\Release\net8.0\publish\Steel AI.dll
+dotnet "C:\Users\corne_5f7zsot\source\repos\Steel-AI\bin\Release\net8.0\publish\Steel AI.dll"

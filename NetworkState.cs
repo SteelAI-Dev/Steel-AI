@@ -1,14 +1,13 @@
 ﻿using System;
 using System.IO;
 using System.Text.Json;
-using Steel_AI.NetworkDefinition;
 
-namespace Steel_AI.Helpers
+namespace Steel_AI
 {
 	internal class NetworkState
 	{
-		private static readonly JsonSerializerOptions Options = new JsonSerializerOptions
-		{
+		private static readonly JsonSerializerOptions Options = new()
+        {
 			WriteIndented = true,
 			IncludeFields = true
 		};

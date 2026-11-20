@@ -1,4 +1,4 @@
-﻿namespace Steel_AI.NetworkDefinition
+﻿namespace Steel_AI
 {
     [Serializable]
     internal class NeuralNetwork
@@ -6,7 +6,7 @@
         /// <summary> 
         /// Array of layers representing the entire neural network structure.
         /// </summary>
-        public Layer[] Layers { get; set; } = Array.Empty<Layer>();
+        public Layer[] Layers { get; set; } = [];
 
         /// <summary>
         /// Parameterless constructor required for serialization.

@@ -1,7 +1,48 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\corne_5f7zsot\\source\\repos\\GodSteel25\\Steel-AI\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\corne_5f7zsot\\source\\repos\\Steel-AI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4FF4CD9-5D0E-162A-4E43-A8FA1E2DC5B7}|Steel AI.csproj|c:\\users\\corne_5f7zsot\\source\\repos\\steel-ai\\data\\digitsprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4FF4CD9-5D0E-162A-4E43-A8FA1E2DC5B7}|Steel AI.csproj|solutionrelative:data\\digitsprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4FF4CD9-5D0E-162A-4E43-A8FA1E2DC5B7}|Steel AI.csproj|c:\\users\\corne_5f7zsot\\source\\repos\\steel-ai\\canvasform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4FF4CD9-5D0E-162A-4E43-A8FA1E2DC5B7}|Steel AI.csproj|solutionrelative:canvasform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4FF4CD9-5D0E-162A-4E43-A8FA1E2DC5B7}|Steel AI.csproj|C:\\Users\\corne_5f7zsot\\source\\repos\\Steel-AI\\canvasform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B4FF4CD9-5D0E-162A-4E43-A8FA1E2DC5B7}|Steel AI.csproj|solutionrelative:canvasform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4FF4CD9-5D0E-162A-4E43-A8FA1E2DC5B7}|Steel AI.csproj|c:\\users\\corne_5f7zsot\\source\\repos\\steel-ai\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4FF4CD9-5D0E-162A-4E43-A8FA1E2DC5B7}|Steel AI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4FF4CD9-5D0E-162A-4E43-A8FA1E2DC5B7}|Steel AI.csproj|c:\\users\\corne_5f7zsot\\source\\repos\\steel-ai\\trainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4FF4CD9-5D0E-162A-4E43-A8FA1E2DC5B7}|Steel AI.csproj|solutionrelative:trainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4FF4CD9-5D0E-162A-4E43-A8FA1E2DC5B7}|Steel AI.csproj|c:\\users\\corne_5f7zsot\\source\\repos\\steel-ai\\networkstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4FF4CD9-5D0E-162A-4E43-A8FA1E2DC5B7}|Steel AI.csproj|solutionrelative:networkstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4FF4CD9-5D0E-162A-4E43-A8FA1E2DC5B7}|Steel AI.csproj|c:\\users\\corne_5f7zsot\\source\\repos\\steel-ai\\algorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4FF4CD9-5D0E-162A-4E43-A8FA1E2DC5B7}|Steel AI.csproj|solutionrelative:algorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4FF4CD9-5D0E-162A-4E43-A8FA1E2DC5B7}|Steel AI.csproj|c:\\users\\corne_5f7zsot\\source\\repos\\steel-ai\\neuralnetwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4FF4CD9-5D0E-162A-4E43-A8FA1E2DC5B7}|Steel AI.csproj|solutionrelative:neuralnetwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4FF4CD9-5D0E-162A-4E43-A8FA1E2DC5B7}|Steel AI.csproj|c:\\users\\corne_5f7zsot\\source\\repos\\steel-ai\\layer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4FF4CD9-5D0E-162A-4E43-A8FA1E2DC5B7}|Steel AI.csproj|solutionrelative:layer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4FF4CD9-5D0E-162A-4E43-A8FA1E2DC5B7}|Steel AI.csproj|c:\\users\\corne_5f7zsot\\source\\repos\\steel-ai\\neuron.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4FF4CD9-5D0E-162A-4E43-A8FA1E2DC5B7}|Steel AI.csproj|solutionrelative:neuron.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +50,144 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 7,
           "Children": [
             {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\corne_5f7zsot\\source\\repos\\Steel-AI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\corne_5f7zsot\\source\\repos\\Steel-AI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-23T18:35:46.372Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Neuron.cs",
+              "DocumentMoniker": "C:\\Users\\corne_5f7zsot\\source\\repos\\Steel-AI\\Neuron.cs",
+              "RelativeDocumentMoniker": "Neuron.cs",
+              "ToolTip": "C:\\Users\\corne_5f7zsot\\source\\repos\\Steel-AI\\Neuron.cs",
+              "RelativeToolTip": "Neuron.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-23T20:23:04.837Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Layer.cs",
+              "DocumentMoniker": "C:\\Users\\corne_5f7zsot\\source\\repos\\Steel-AI\\Layer.cs",
+              "RelativeDocumentMoniker": "Layer.cs",
+              "ToolTip": "C:\\Users\\corne_5f7zsot\\source\\repos\\Steel-AI\\Layer.cs",
+              "RelativeToolTip": "Layer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-23T20:23:26.218Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NeuralNetwork.cs",
+              "DocumentMoniker": "C:\\Users\\corne_5f7zsot\\source\\repos\\Steel-AI\\NeuralNetwork.cs",
+              "RelativeDocumentMoniker": "NeuralNetwork.cs",
+              "ToolTip": "C:\\Users\\corne_5f7zsot\\source\\repos\\Steel-AI\\NeuralNetwork.cs",
+              "RelativeToolTip": "NeuralNetwork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-23T20:23:34.235Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Algorithm.cs",
+              "DocumentMoniker": "C:\\Users\\corne_5f7zsot\\source\\repos\\Steel-AI\\Algorithm.cs",
+              "RelativeDocumentMoniker": "Algorithm.cs",
+              "ToolTip": "C:\\Users\\corne_5f7zsot\\source\\repos\\Steel-AI\\Algorithm.cs",
+              "RelativeToolTip": "Algorithm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-23T20:23:39.076Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NetworkState.cs",
+              "DocumentMoniker": "C:\\Users\\corne_5f7zsot\\source\\repos\\Steel-AI\\NetworkState.cs",
+              "RelativeDocumentMoniker": "NetworkState.cs",
+              "ToolTip": "C:\\Users\\corne_5f7zsot\\source\\repos\\Steel-AI\\NetworkState.cs",
+              "RelativeToolTip": "NetworkState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-23T20:23:47.121Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Trainer.cs",
+              "DocumentMoniker": "C:\\Users\\corne_5f7zsot\\source\\repos\\Steel-AI\\Trainer.cs",
+              "RelativeDocumentMoniker": "Trainer.cs",
+              "ToolTip": "C:\\Users\\corne_5f7zsot\\source\\repos\\Steel-AI\\Trainer.cs",
+              "RelativeToolTip": "Trainer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-23T20:23:54.671Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DigitsProgram.cs",
+              "DocumentMoniker": "C:\\Users\\corne_5f7zsot\\source\\repos\\Steel-AI\\Data\\DigitsProgram.cs",
+              "RelativeDocumentMoniker": "Data\\DigitsProgram.cs",
+              "ToolTip": "C:\\Users\\corne_5f7zsot\\source\\repos\\Steel-AI\\Data\\DigitsProgram.cs",
+              "RelativeToolTip": "Data\\DigitsProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-23T20:24:00.804Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CanvasForm.cs",
+              "DocumentMoniker": "C:\\Users\\corne_5f7zsot\\source\\repos\\Steel-AI\\CanvasForm.cs",
+              "RelativeDocumentMoniker": "CanvasForm.cs",
+              "ToolTip": "C:\\Users\\corne_5f7zsot\\source\\repos\\Steel-AI\\CanvasForm.cs",
+              "RelativeToolTip": "CanvasForm.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAqwDsAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-23T20:24:15.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CanvasForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\corne_5f7zsot\\source\\repos\\Steel-AI\\CanvasForm.cs",
+              "RelativeDocumentMoniker": "CanvasForm.cs",
+              "ToolTip": "C:\\Users\\corne_5f7zsot\\source\\repos\\Steel-AI\\CanvasForm.cs [Design]",
+              "RelativeToolTip": "CanvasForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-23T20:24:36.61Z"
             }
           ]
         }

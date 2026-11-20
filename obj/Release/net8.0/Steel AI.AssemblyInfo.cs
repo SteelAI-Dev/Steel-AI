@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Steel AI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+07868c0b93deccff7f1d4fb4b917e4f2fcfe4940")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+354924347de974fa5aa5b46ed589c350a8d983e7")]
 [assembly: System.Reflection.AssemblyProductAttribute("Steel AI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Steel AI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,4 +1,4 @@
-﻿namespace Steel_AI.NetworkDefinition
+﻿namespace Steel_AI
 {
     [Serializable]
     internal class Layer
@@ -6,7 +6,7 @@
         /// <summary>
         /// Array of neurons belonging to this layer.
         /// </summary>
-        public Neuron[] Neurons { get; set; } = Array.Empty<Neuron>();
+        public Neuron[] Neurons { get; set; } = [];
 
         /// <summary>
         /// Parameterless constructor required for serialization.

@@ -1,6 +1,6 @@
 ﻿using static System.Math;
 
-namespace Steel_AI.NetworkDefinition
+namespace Steel_AI
 {
     [Serializable]
     internal class Neuron
@@ -8,7 +8,7 @@ namespace Steel_AI.NetworkDefinition
         private readonly Random _random = new();
         public double Output { get; set; }
         public double Bias { get; set; }
-        public double[] Weights { get; set; } = Array.Empty<double>();
+        public double[] Weights { get; set; } = [];
         public double Gradient { get; set; }
 
         ///<summary>

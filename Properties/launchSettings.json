@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Steel AI": {
+      "commandName": "Project",
+      "commandLineArgs": "canvas",
+      "remoteDebugEnabled": false
+    }
+  }
+}

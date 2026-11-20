@@ -8,3 +8,5 @@ using System.Diagnostics.CodeAnalysis;
 [assembly: SuppressMessage("Style", "IDE0300:Simplify collection initialization", Justification = "<Pending>", Scope = "member", Target = "~M:Steel_AI.Program.Main(System.String[])")]
 [assembly: SuppressMessage("Style", "IDE0090:Use 'new(...)'", Justification = "<Pending>", Scope = "member", Target = "~M:Steel_AI.Program.Main(System.String[])")]
 [assembly: SuppressMessage("Style", "IDE0060:Remove unused parameter", Justification = "<Pending>", Scope = "member", Target = "~M:Steel_AI.Program.Main(System.String[])")]
+[assembly: SuppressMessage("Style", "IDE0044:Add readonly modifier", Justification = "<Pending>", Scope = "member", Target = "~F:Steel_AI.CanvasForm.canvasBitmap")]
+[assembly: SuppressMessage("Style", "IDE0044:Add readonly modifier", Justification = "<Pending>", Scope = "member", Target = "~F:Steel_AI.CanvasForm.canvasGraphics")]
